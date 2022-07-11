@@ -1,0 +1,15 @@
+- Basic Part:
+	- 1.1 - 1.3
+	- 2.1 - 2.5
+	- 3.1 - 3.5
+- Moddelling Process:
+	- 1.1, 1.2, and 2.3
+- Careful constructions of models
+	- 2.5 and 3.7
+- Solutions
+	- An Instructor’s Solutions Manual
+	  id:: 62682a30-1dc6-4d26-ab6e-02146ec37a0c
+		- ISBN 978-0-470-45834-1, includes solutions for all problems not contained in the Student Solutions Manual.
+	- A Student Solutions Manual,
+		- ISBN 978-0-470-45833-4, includes solutions for se- lected problems in the text.
+	- Books About DE Computation with Matlab/Maple/Mathematica

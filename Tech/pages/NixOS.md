@@ -1,0 +1,2 @@
+- Python Development
+	- https://www.reddit.com/r/NixOS/comments/i16zvd/how_to_make_pycharm_use_nixshell/

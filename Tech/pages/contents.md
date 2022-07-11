@@ -1,0 +1,27 @@
+- Languages
+	- [[C++]]
+	- [[Golang]]
+		- [[Tools]]
+		- [[Concurrency in Golang]]
+		- [[面试准备]]
+	- [[Python]]
+	- [[Java]]
+	- [[Haskell]]
+- [[Frontend]]
+- [[Network]]
+- [[Scientific Computing]]
+- Database
+	- [[MySQL]]
+- Tweak
+  collapsed:: true
+	- NixOS
+		- [[NixOS]]
+	- [[KDE]]
+	- [[Screen]]
+	- [[Vim]]
+-
+- Algo
+	- [[Hash Table]]
+	-
+-
+	-

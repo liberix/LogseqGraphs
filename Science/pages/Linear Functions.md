@@ -1,0 +1,3 @@
+- a function $f : R^n -> R^m$ is **_linear_** if:
+	- $f(x+y) = f(x) + f(y), \forall x , y \in R^n$
+	- $f(\alpha x) = \alpha f(x), \forall x \in R^n$

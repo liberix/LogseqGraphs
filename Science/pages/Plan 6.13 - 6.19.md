@@ -1,0 +1,35 @@
+title:: Plan 6.13 - 6.19
+
+- 13 - 19
+	- 1h paper reading
+	- MIT OCW 14-15
+	- Cousera DE 4 Eng Week1-2
+	- TOEFL Listening *1
+	- TOEFL Independent Writing * 1
+	- TOEFL 口语
+		- task3
+			- 1 - 15遍
+			- 复述
+		- task 4
+		- task 6
+		- task2
+	- TOEFL 听力 & 口语精听
+		- 原题精听，重点找逻辑结构
+		- 扩展精听，培养语感、词汇、口语表达
+	- 对托福练习进行
+		- 总结
+- 14 16 18
+	- 写作知识补充
+		- 新东方
+		- 老师给的PPT
+		- Chinese Writing
+	- TOEFL 阅读一套
+- 13 15 17
+	- TOEFL 综合写作
+	- TOEFL
+	- NeuroMatch 每日一个Tutorial
+	- Machine Learning 一个视频
+	-
+	-
+	-
+	-

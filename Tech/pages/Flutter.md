@@ -1,0 +1,6 @@
+- TODOS
+	- `@override`
+	- `_` in the `_functionName`
+- Widgets
+	- Stateful
+	- Stateless

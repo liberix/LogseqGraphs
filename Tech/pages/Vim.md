@@ -1,0 +1,12 @@
+- ## Jump through file
+	- ctrl-p
+	- ctrl-o jump through history
+	- mark
+		- local mark m + <h, l >
+		- global mark
+-
+- # PLugin
+	- fuzzy-search, ctrl-p search file
+- # Sources
+	- https://github.com/jdhao/nvim-config
+-

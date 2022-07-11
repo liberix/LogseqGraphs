@@ -1,0 +1,35 @@
+- Connections between the output layer
+	- ![image.png](../assets/image_1649173656775_0.png){:height 252, :width 359}
+- #  Mathematical Description
+	- Basic
+		- $v$ firing rate of ouput neurons, $u$ firing rate of input neurons.
+		- $F$ means weights
+		- ![image.png](../assets/image_1649173780013_0.png){:height 266, :width 473}
+	- Simplify the equation we get:
+		- ![image.png](../assets/image_1649174302788_0.png){:height 345, :width 440}
+	- Ultimate Equation:
+		- $$
+		  \tau_n \frac{d \vec{v}}{dt} = -\vec{v} + F [\vec{h} + M \vec{v}]
+		  $$
+	- Let's Solve the euqation:
+		- For Linear neurons, which the firing rate is linear for the input:
+			- ![image.png](../assets/image_1649174912346_0.png){:height 118, :width 448}
+			- Example:
+				- Autapse:
+					- A diagonal matrix, means the neuron make connnection with himself.
+					- This is a autapse
+						- ![image.png](../assets/image_1649174970631_0.png){:height 239, :width 527}
+					- Wirte equation for each independent neuron
+						- ![image.png](../assets/image_1649218710567_0.png)
+					- Rewrite the equation
+						- ![image.png](../assets/image_1649219121891_0.png){:height 122, :width 167}
+					- We have 3 situantions for $\lambda$
+						- ![image.png](../assets/image_1649219202931_0.png)
+							- but $\tau$ is slower
+						- ![image.png](../assets/image_1649219260410_0.png)
+							- $\tau$ is faster
+						- ![image.png](../assets/image_1649219338989_0.png)
+					- How do we represent the response of a network of neurons.:
+						- State-space trajectories
+				- Fully-Recurrent Network
+					-

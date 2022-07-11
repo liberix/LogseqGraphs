@@ -1,0 +1,179 @@
+[{:block/name "(62178757-c58d-442e-b423-909edf768397)",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "(622614d8-396b-40d2-9801-2b6a0512f1ef)",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "62b14a0b-e3c3-4a7e-a839-de94d6b8e197",
+  :block/created-at 1655819184242,
+  :block/updated-at 1655819184242}
+ {:block/name "62b1539a-4cc2-4b2a-bf21-9c59a4512dc6",
+  :block/created-at 1655819071166,
+  :block/updated-at 1655819071166}
+ {:block/name "[ref]:  【学术思想】连续吸引子神经网络：神经信息表达的正则化网络模型",
+  :block/created-at 1652026305490,
+  :block/updated-at 1652026305490}
+ {:block/name "a",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "abstract",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "attachments",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "b",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name
+  "bayes inference inneural circuits --- r.a. with wenhao zhang",
+  :block/created-at 1649164416739,
+  :block/updated-at 1649164565744}
+ {:block/name "book",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "c",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "calculus",
+  :block/created-at 1655303257213,
+  :block/updated-at 1656172393384}
+ {:block/name "card",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "circuits",
+  :block/created-at 1646549731662,
+  :block/updated-at 1646664811899}
+ {:block/name "complex number",
+  :block/created-at 1655302480197,
+  :block/updated-at 1655877147514}
+ {:block/name "compneuro",
+  :block/created-at 1642319992476,
+  :block/updated-at 1655453396618}
+ {:block/name "computing in carbon",
+  :block/created-at 1646553851755,
+  :block/updated-at 1647439603103}
+ {:block/name "computing with networks",
+  :block/created-at 1647409485281,
+  :block/updated-at 1648214087772}
+ {:block/name "contents",
+  :block/created-at 1642318568016,
+  :block/updated-at 1657464451749}
+ {:block/name "convolution",
+  :block/created-at 1654788792434,
+  :block/updated-at 1654789014109}
+ {:block/name "differential equation",
+  :block/created-at 1650648184867,
+  :block/updated-at 1656177388494}
+ {:block/name "dimitri p bertsekas",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "distribution",
+  :block/created-at 1657366785314,
+  :block/updated-at 1657374875939}
+ {:block/name "doing",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "done",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "dynamical system",
+  :block/created-at 1646573040263,
+  :block/updated-at 1646576078581}
+ {:block/name
+  "elementary differential equations and boundary value problems",
+  :block/created-at 1650993402721,
+  :block/updated-at 1650993768004}
+ {:block/name "favorites",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "haskell",
+  :block/created-at 1652026305490,
+  :block/updated-at 1652026305490}
+ {:block/name "in-progress",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "information theory",
+  :block/created-at 1642347975163,
+  :block/updated-at 1645762843877}
+ {:block/name "john n tsitsiklis",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "later",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "linear algebra",
+  :block/created-at 1643898694278,
+  :block/updated-at 1655785502514}
+ {:block/name "linear dynamical systems",
+  :block/created-at 1643472658171,
+  :block/updated-at 1643896038355}
+ {:block/name "linear functions",
+  :block/created-at 1643899004042,
+  :block/updated-at 1643899154782}
+ {:block/name "linear kernel",
+  :block/created-at 1654788799996,
+  :block/updated-at 1654788799996}
+ {:block/name "linear regression with one variable",
+  :block/created-at 1656323066671,
+  :block/updated-at 1656324134078}
+ {:block/name "machine learning",
+  :block/created-at 1656220998917,
+  :block/updated-at 1656323066672}
+ {:block/name "matplotlib",
+  :block/created-at 1654582061104,
+  :block/updated-at 1654582061104}
+ {:block/name "neural decoding",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "neural encoding",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "neuron networks by mit ocw",
+  :block/created-at 1650813017865,
+  :block/updated-at 1655039348005}
+ {:block/name "now",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "numpy",
+  :block/created-at 1654074326388,
+  :block/updated-at 1655453665538}
+ {:block/name "plan 6.13 - 6.19",
+  :block/created-at 1655189320845,
+  :block/updated-at 1655189320845}
+ {:block/name "probability & statistics",
+  :block/created-at 1642318636217,
+  :block/updated-at 1657451921425}
+ {:block/name "questions",
+  :block/created-at 1655189320843,
+  :block/updated-at 1655189320843}
+ {:block/name "r.a. with wenhao zhang",
+  :block/created-at 1643189804733,
+  :block/updated-at 1643189883742}
+ {:block/name "random number",
+  :block/created-at 1657358035401,
+  :block/updated-at 1657358133086}
+ {:block/name "recurrent network",
+  :block/created-at 1649173069411,
+  :block/updated-at 1649219765117}
+ {:block/name "ref: a mathematical theory of communication",
+  :block/created-at 1652026305491,
+  :block/updated-at 1652026305491}
+ {:block/name "ref: introduction to probability",
+  :block/created-at 1652026305490,
+  :block/updated-at 1652026305490}
+ {:block/name "todo",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "wait",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "waiting",
+  :block/created-at 1642347975163,
+  :block/updated-at 1642347975163}
+ {:block/name "webpage",
+  :block/created-at 1650813017865,
+  :block/updated-at 1650813017865}
+ {:block/name "吴思",
+  :block/created-at 1650813017865, 
+  :block/updated-at 1650813017865}]

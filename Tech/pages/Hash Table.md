@@ -1,0 +1,11 @@
+- Check "algs4", chapter 3.4
+	- Use `hash function` turn key into array index
+	- # Hash Function
+		- Decided by `type`
+			- `int`
+				- mod by a **prime**
+					- to sperse keys uniformly
+	- # Conflict Resolution
+		- ## Sperate Chaining
+			- every ele in array is a linkedlist
+		- ## Linear Probing

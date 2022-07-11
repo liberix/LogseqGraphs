@@ -1,0 +1,1 @@
+- https://blog.summercat.com/configuring-mixed-dpi-monitors-with-xrandr.html
